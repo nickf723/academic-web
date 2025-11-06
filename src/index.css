@@ -1,5 +1,8 @@
-/* Removed Tailwind directives since Tailwind is not configured or recognized */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* Your custom styles can go below */
 
 body {
   background: radial-gradient(circle at 30% 30%, #111827 0%, #0f172a 60%, #020617 100%);
